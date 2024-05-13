@@ -1,8 +1,8 @@
 package cardgame.application;
 
-import cardgame.model.metarial.Card;
-import cardgame.model.metarial.Rank;
-import cardgame.model.metarial.Suit;
+import cardgame.model.Card;
+import cardgame.model.Rank;
+import cardgame.model.Suit;
 
 public class CardMain {
 
